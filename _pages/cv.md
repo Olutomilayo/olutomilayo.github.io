@@ -11,30 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Computer Science, Ekiti State University, Ado-Ekiti, Nigeria, 2014
+* M.Sc. in Computer Science, Universiti Teknologi Malaysia, 2017
+* Ph.D in Computer Science, City University of Hong Kong, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Visiting Research Fellow: Cornell University (Sept. 2022 - Feb. 2023)
+  * Working on the development of machine learning methods for Cancer and Tuberculosis patient classification based on genomics and metabolomics data sets.
+  * Working with time series data, specifically ambulatory blood pressure data
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Teaching Assistant: City University of Hong Kong (Sept. 2019 - Aug. 2023)
+  * I was in charge of labwork for the following courses: Data-Intensive Computing, Big data Algorithm & Technique, and Introduction to Computer Programming.
+  * I was a tutor for Introduction to Computer Science for four semesters.
+  * I prepared lab materials, graded tests and assignments, and attended to students’ questions.
   
+* Lecturer: Kings University Odeomu, Nigeria (Mar. 2018 - Aug. 2019)
+  * I taught the following courses: Fundamentals of Data Structure & Algorithms, Computer Networks, and Object-Oriented Programming.
+  * I developed mid-semester quizzes, homework, and exams.
+  * I coordinated grading and labwork.
+  * I supervised student projects.
+
+* System Analyst: National Institute for Educational Planning and Administration Ondo, Nigeria (May. 2015 - Apr. 2016)
+  * I traced and restored network disconnections in the different parastatals of the Institute.
+  * I tutored university interns on practical networking and web development skills.
+  * I was a member of the networking team that set up a computer-based test facility for almost 1000 students.
+ 
+* Intern: Bureau of Computer Services and Information Technology, Office of the Governor. Osogbo, Nigeria: (Aug. 2012 - Feb. 2013)
+  * I monitored the Network Operating Center (NOC) of the State. I also traced connection loss and facilitated its restoration.
+  * I was responsible for constant network connection in all office ministries.
+  * I tutored college students on basic computer skills.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages: Python, R, JavaScript, C++
+* Frameworks: Scikit, TensorFlow, Keras
+* Platforms: Web, Windows, JASP, WEKA, Matlab
+* Soft Skills: leadership, event management, communication for scientific and professional purposes, team building
+* Communication: English (full professional proficiency), Yoruba (native proficiency), French (elementary proficiency)
+* Interests: cycling, swimming, hiking, badminton, table tennis
 
 Publications
 ======
