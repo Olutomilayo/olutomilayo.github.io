@@ -16,12 +16,14 @@ I am a goal-oriented data scientist with over six years of experience in telling
 
 Honors and Awards
 ------
-• Outstanding Academic Performance Award, City University of Hong Kong: 2022
-• Research Tuition Scholarship, City University of Hong Kong: 2020
-• UGC-funded Postgraduate Studentship Award, City University of Hong Kong: 2019 - 2023
-• Best Student Award, Faculty of Computing, Universiti Teknologi Malaysia: April 2018
-• MTN Foundation Scholarship Award for Science Students: 2012 - 2014
-• University Scholarship Award for first class students: 2011
+<ul>
+  <li>Outstanding Academic Performance Award, City University of Hong Kong: 2022</li>
+  <li>Research Tuition Scholarship, City University of Hong Kong: 2020</li>
+  <li>UGC-funded Postgraduate Studentship Award, City University of Hong Kong: 2019 - 2023</li>
+  <li>Best Student Award, Faculty of Computing, Universiti Teknologi Malaysia: April 2018</li>
+  <li>MTN Foundation Scholarship Award for Science Students: 2012 - 2014</li>
+  <li>University Scholarship Award for first class students: 2011</li>
+</ul>
 
 Academic Services
 ------
@@ -34,24 +36,20 @@ Reviewer:
   <li>Frontiers in Genetics, Frontiers in Bioengineering and Biotechnology and Frontiers in Plant Science (Computational Genomics)</li>
   <li>CMC-Computers, Materials & Continua</li>
 </ul>
-• IEEE Journal of Biomedical and Health Informatics
-• BioData Mining
-• Computer Modeling in Engineering & Sciences
-• Applied Soft Computing
-• Frontiers in Genetics, Frontiers in Bioengineering and Biotechnology and Frontiers in Plant Science (Computational Genomics)
-• CMC-Computers, Materials & Continua
 
 Leadership and Volunteer Experience
 ------
-• Member, Research Education Committee, Dept. of Computer Science, CityU Hong Kong: Sept 2021 - Aug 2023
-• Seceretary, Association of Nigerian Scholars in Hong Kong (ANSHK) Hong Kong: Oct 2021 - Sept 2023
-• Guest Speaker, Navigating Hong Kong, ANSHK Hong Kong: October 2020
-• Member, Electoral Committee, ANSHK Hong Kong: 2020
-• Member, Electoral Committee, International Student Society (ISS-NIGERIA), UTM Malaysia: 2017
-• Member, Annual General Meeting Committee, ISS-NIGERIA, UTM Malaysia: 2017
-• Project Coordinator, Information Communication and Technology Community Development Service Group Ondo, Nigeria: 2015 - 2016
-• Proctor, Joint Admissions and Matriculation Board Ondo, Nigeria: March 2016
-• Academic Director, Deeper Life Campus Fellowship Ekiti, Nigeria: 2011 - 2012
+<ul>
+  <li>Member, Research Education Committee, Dept. of Computer Science, CityU Hong Kong: Sept 2021 - Aug 2023</li>
+  <li>Seceretary, Association of Nigerian Scholars in Hong Kong (ANSHK) Hong Kong: Oct 2021 - Sept 2023</li>
+  <li>Guest Speaker, Navigating Hong Kong, ANSHK Hong Kong: October 2020</li>
+  <li>Member, Electoral Committee, ANSHK Hong Kong: 2020</li>
+  <li>Member, Electoral Committee, International Student Society (ISS-NIGERIA), UTM Malaysia: 2017</li>
+  <li>Member, Annual General Meeting Committee, ISS-NIGERIA, UTM Malaysia: 2017</li>
+  <li>Project Coordinator, Information Communication and Technology Community Development Service Group Ondo, Nigeria: 2015 - 2016</li>
+  <li>Proctor, Joint Admissions and Matriculation Board Ondo, Nigeria: March 2016</li>
+  <li>Academic Director, Deeper Life Campus Fellowship Ekiti, Nigeria: 2011 - 2012</li>
+</ul>
 
 **Hobbies**
 <ul>
