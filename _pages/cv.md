@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Resume](olutomilayo.github.io/files/Resume_Petinrin_Olutomilayo.pdf) [Download CV](olutomilayo.github.io/files/CV_Petinrin_Olutomilayo.pdf)
+
 Education
 ======
 * B.Sc. in Computer Science, Ekiti State University, Ado-Ekiti, Nigeria, 2014
@@ -71,4 +73,11 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member, Research Education Committee, Dept. of Computer Science, CityU Hong Kong: Sept 2021 - Aug 2023
+* Seceretary, Association of Nigerian Scholars in Hong Kong (ANSHK) Hong Kong: Oct 2021 - Sept 2023
+* Member, Electoral Committee, ANSHK Hong Kong: 2020
+* Member, Electoral Committee, International Student Society (ISS-NIGERIA), UTM Malaysia: 2017
+* Member, Annual General Meeting Committee, ISS-NIGERIA, UTM Malaysia: 2017
+* Project Coordinator, Information Communication and Technology Community Development Service Group Ondo, Nigeria: 2015 - 2016
+* Proctor, Joint Admissions and Matriculation Board Ondo, Nigeria: March 2016
+* Academic Director, Deeper Life Campus Fellowship Ekiti, Nigeria: 2011 - 2012
