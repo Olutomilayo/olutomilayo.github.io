@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Resume](olutomilayo.github.io/files/Resume_Petinrin_Olutomilayo.pdf) [Download CV](olutomilayo.github.io/files/CV_Petinrin_Olutomilayo.pdf)
+[Download Resume](https://github.com/Olutomilayo/olutomilayo.github.io/files/Resume_Petinrin_Olutomilayo.pdf) [Download CV](https://github.com/Olutomilayo/olutomilayo.github.io/files/CV_Petinrin_Olutomilayo.pdf)
 
 Education
 ======
