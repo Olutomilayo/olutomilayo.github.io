@@ -12,4 +12,4 @@ It has been shown that due to the inability of simple tools to handle the majorl
 
 [Download paper here](http://olutomilayo.github.io/files/Paper2.pdf)
 
-Recommended citation: Petinrin, O. O., & Olatunbosun, K. (2017). "Application of machine learning in prediction of bioactivity of molecular compounds: A review". <i>Technology (ICONSEET)</i>, 2(2), 9-15.
+Recommended citation: Petinrin, O. O., & Olatunbosun, K. (2017). Application of machine learning in prediction of bioactivity of molecular compounds: A review. <i>Technology (ICONSEET)</i>, 2(2), 9-15.
