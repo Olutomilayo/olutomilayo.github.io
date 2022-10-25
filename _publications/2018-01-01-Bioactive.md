@@ -1,5 +1,5 @@
 ---
-title: "Bioactive molecule prediction using majority voting-based ensemble method"
+title: "Bioactive Molecule Prediction using Majority Voting-Based Ensemble Method"
 collection: publications
 permalink: /publication/2018-01-01-Bioactive
 excerpt: 'In this study, majority voting ensemble method was used to determine biologically active molecular compounds which are capable of drug-target interaction.'
