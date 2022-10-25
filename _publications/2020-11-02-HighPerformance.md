@@ -1,5 +1,5 @@
 ---
-title: "High-performance computing for computational modelling in built environment-related studies–a scientometric review"
+title: "High-Performance Computing for Computational Modelling in Built Environment-Related Studies – a Scientometric Review"
 collection: publications
 permalink: /publication/2020-11-02-HighPerformance
 excerpt: 'This paper presents the result of a scientometric analysis conducted using studies on high-performance computing in computational modelling.'
