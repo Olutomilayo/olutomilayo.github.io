@@ -1,10 +1,10 @@
 ---
-title: "Application of machine learning in prediction of bioactivity of molecular compounds: A review"
+title: "Application of Machine Learning in Prediction of Bioactivity of Molecular Compounds: A Review"
 collection: publications
 permalink: /publication/2017-01-01-Application
 excerpt: 'A review on the use of machine learning for prediction of bioactive molecular compounds.'
 date: 2017-01-01
-venue: 'International Conference of Science, Engineering & Environmental Technology (ICONSEET),'
+venue: 'International Conference of Science, Engineering & Environmental Technology (ICONSEET)'
 paperurl: 
 citation: '<u>Petinrin, O. O.</u> & Olatunbosun, K. (2017) &quot;Application of machine learning in prediction of bioactivity of molecular compounds: A review.&quot; <i>Technology (ICONSEET)</i>, 2(2), 9-15.'
 ---
