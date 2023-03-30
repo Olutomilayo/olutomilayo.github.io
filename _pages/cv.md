@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Resume](https://github.com/Olutomilayo/olutomilayo.github.io/blob/master/files/Petinrin_Olutomilayo_Resume.pdf) [Download CV](https://github.com/Olutomilayo/olutomilayo.github.io/blob/master/files/Petinrin_Olutomilayo_CV.pdf)
+[Download Resume](https://github.com/Olutomilayo/olutomilayo.github.io/blob/master/files/Petinrin_O_Resume.pdf) [Download CV](https://github.com/Olutomilayo/olutomilayo.github.io/blob/master/files/Petinrin_CV.pdf)
 
 Education
 ======
@@ -20,10 +20,10 @@ Education
 Work experience
 ======
 * Visiting Research Fellow: Cornell University (Sept. 2022 - Feb. 2023)
-  * Working on the development of machine learning methods for Cancer and Tuberculosis patient classification based on genomics and metabolomics data sets.
-  * Working with time series data, specifically ambulatory blood pressure data
+  * I worked on the development of machine learning methods for Cancer and Tuberculosis patient classification based on genomics and metabolomics data sets.
+  * I worked with time series data, specifically ambulatory blood pressure data
 
-* Teaching Assistant: City University of Hong Kong (Sept. 2019 - Aug. 2023)
+* Machine Learning Researcher: CORIL Lab, City University of Hong Kong (Sept. 2019 - Aug. 2023)
   * I was in charge of labwork for the following courses: Data-Intensive Computing, Big data Algorithm & Technique, and Introduction to Computer Programming.
   * I was a tutor for Introduction to Computer Science for four semesters.
   * I prepared lab materials, graded tests and assignments, and attended to students’ questions.
@@ -46,7 +46,7 @@ Work experience
 
 Skills
 ======
-* Languages: Python, R, JavaScript, C++
+* Languages: Python, SQL, R, JavaScript, C++
 * Frameworks: Scikit, TensorFlow, Keras
 * Platforms: Web, Windows, JASP, WEKA, Matlab
 * Soft Skills: leadership, event management, communication for scientific and professional purposes, team building
