@@ -61,4 +61,5 @@ Leadership and Volunteer Experience
 </ul>
 
 **Compass**
-<u>Study</u> to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. - 2 Timothy 2:15 (KJV)
+=====
+<b><u>Study</u></b> to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. - 2 Timothy 2:15 (KJV)
