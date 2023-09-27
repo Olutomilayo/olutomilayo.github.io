@@ -67,3 +67,15 @@ Leadership and Volunteer Experience
 <embed src="https://app.coachvox.ai/avatar/AYA71LIb6G3n42NhAIEa/embed" height="100%" width="100%" />
 
 
+<script>
+window.embeddedChatbotConfig = {
+chatbotId: "nkUCPf3I_ENG1tK5YKR7s",
+domain: "www.chatbase.co"
+}
+</script>
+<script
+src="https://www.chatbase.co/embed.min.js"
+chatbotId="nkUCPf3I_ENG1tK5YKR7s"
+domain="www.chatbase.co"
+defer>
+</script>
