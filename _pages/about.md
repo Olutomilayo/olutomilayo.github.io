@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. candidate in the [Department of Computer Science](https://www.cs.cityu.edu.hk) at [City University of Hong Kong](https://www.cityu.edu.hk). I am a member of the [COmputing Research for Impact on Lives (CORIL) Lab](http://bioinfo.cs.cityu.edu.hk) under the supervision of [Prof. Ka-Chun Wong](https://www.cityu.edu.hk/stfprofile/kc.w.htm). From September 2022 till February 2023, I was a Visiting Research Fellow in the [Department of Statistics and Data Science](https://stat.cornell.edu) at [Cornell University](https://www.cornell.edu), working with [Prof. Sumanta Basu](https://compbio.cornell.edu/people/sumanta-basu) and [Prof. Martin Wells](https://stat.cornell.edu/people/faculty/martin-wells). My research interest spans the field of data science and machine learning applications, especially for health, finance, and business analysis. Linked, is an example of my recent work on the optimization of machine learning algorithms for the precise diagnosis of metastatic cancer, determination of survival outcome, and treatment recommendation for improving the life quality of patients ([sample paper](https://olutomilayo.github.io/files/Paper13.pdf)). I am majorly interested in applied machine learning, and deep learning. In 2017, I received my Masters degree in Computer Science at the [Faculty of Computing](https://engineering.utm.my/computing), [Universiti Teknologi Malaysia](https://utm.my) under the supervision of [Prof. Faisal Saeed](https://www.bcu.ac.uk/computing/about-us/our-staff/faisal-saeed). I worked with machine learning algorithms and ensembles for the prediction of bioactive molecular compounds towards drug-target relationship ([sample paper](https://olutomilayo.github.io/files/Paper8.pdf)).
+I received a Ph.D degree in Computer Science from the [Department of Computer Science](https://www.cs.cityu.edu.hk) at [City University of Hong Kong](https://www.cityu.edu.hk). I was a member of the [COmputing Research for Impact on Lives (CORIL) Lab](http://bioinfo.cs.cityu.edu.hk) under the supervision of [Prof. Ka-Chun Wong](https://www.cityu.edu.hk/stfprofile/kc.w.htm). From September 2022 till February 2023, I was a Visiting Research Fellow in the [Department of Statistics and Data Science](https://stat.cornell.edu) at [Cornell University](https://www.cornell.edu), working with [Prof. Sumanta Basu](https://compbio.cornell.edu/people/sumanta-basu) and [Prof. Martin Wells](https://stat.cornell.edu/people/faculty/martin-wells). My research interest spans data science and machine learning applications, especially for health, finance, and business analysis. Linked, is an example of my recent work on the optimization of machine learning algorithms for the precise diagnosis of metastatic cancer, determination of survival outcome, and treatment recommendation for improving the quality of life of patients ([sample paper](https://olutomilayo.github.io/files/Paper13.pdf)). I am majorly interested in applied machine learning, and deep learning. In 2017, I received my Masters degree in Computer Science at the [Faculty of Computing](https://engineering.utm.my/computing), [Universiti Teknologi Malaysia](https://utm.my) under the supervision of [Prof. Faisal Saeed](https://www.bcu.ac.uk/computing/about-us/our-staff/faisal-saeed). I worked with machine learning algorithms and ensembles for the prediction of bioactive molecular compounds towards drug-target relationship ([sample paper](https://olutomilayo.github.io/files/Paper8.pdf)).
 
 Professional Summary
 ======
@@ -63,3 +63,16 @@ Leadership and Volunteer Experience
 **Compass**
 -----
 <b><u>Study</u></b> to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. - 2 Timothy 2:15 (KJV)
+
+<script>
+window.embeddedChatbotConfig = {
+chatbotId: "nkUCPf3I_ENG1tK5YKR7s",
+domain: "www.chatbase.co"
+}
+</script>
+<script
+src="https://www.chatbase.co/embed.min.js"
+chatbotId="nkUCPf3I_ENG1tK5YKR7s"
+domain="www.chatbase.co"
+defer>
+</script>
