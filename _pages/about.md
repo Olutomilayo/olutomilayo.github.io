@@ -60,10 +60,6 @@ Leadership and Volunteer Experience
   <li>Dancing, Singing</li>
 </ul>
 
-**Compass**
------
-<b><u>Study</u></b> to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. - 2 Timothy 2:15 (KJV)
-
 <script type="text/javascript">
   (function(d, t) {
       var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
@@ -77,6 +73,12 @@ Leadership and Volunteer Experience
       v.src = "https://cdn.voiceflow.com/widget/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
   })(document, 'script');
 </script>
+
+**Compass**
+-----
+<b><u>Study</u></b> to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. - 2 Timothy 2:15 (KJV)
+
+
 
 <embed src="https://app.coachvox.ai/avatar/AYA71LIb6G3n42NhAIEa/embed" height="100%" width="100%" />
 
