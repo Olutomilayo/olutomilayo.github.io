@@ -64,6 +64,20 @@ Leadership and Volunteer Experience
 -----
 <b><u>Study</u></b> to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth. - 2 Timothy 2:15 (KJV)
 
+<script type="text/javascript">
+  (function(d, t) {
+      var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
+      v.onload = function() {
+        window.voiceflow.chat.load({
+          verify: { projectID: '655b2b41f587c021f85e9fa0' },
+          url: 'https://general-runtime.voiceflow.com',
+          versionID: 'production'
+        });
+      }
+      v.src = "https://cdn.voiceflow.com/widget/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
+  })(document, 'script');
+</script>
+
 <embed src="https://app.coachvox.ai/avatar/AYA71LIb6G3n42NhAIEa/embed" height="100%" width="100%" />
 
 
