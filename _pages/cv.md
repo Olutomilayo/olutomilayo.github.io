@@ -15,23 +15,23 @@ Education
 ======
 * B.Sc. in Computer Science, Ekiti State University, Ado-Ekiti, Nigeria, 2014
 * M.Sc. in Computer Science, Universiti Teknologi Malaysia, 2017
-* Ph.D in Computer Science, City University of Hong Kong, 2023 (expected)
+* Ph.D in Computer Science, City University of Hong Kong, 2023 
 
 Work experience
 ======
 * Visiting Research Fellow: Cornell University (Sept. 2022 - Feb. 2023)
-  * I worked on the development of machine learning methods for Cancer and Tuberculosis patient classification based on genomics and metabolomics data sets.
+  * I worked on developing machine learning methods for Cancer and Tuberculosis patient classification based on genomics and metabolomics data sets.
   * I worked with time series data, specifically ambulatory blood pressure data
 
 * Machine Learning Researcher: CORIL Lab, City University of Hong Kong (Sept. 2019 - Aug. 2023)
-  * I was in charge of labwork for the following courses: Data-Intensive Computing, Big data Algorithm & Technique, and Introduction to Computer Programming.
+  * I was in charge of labwork for the following courses: Data-Intensive Computing, Big Data Algorithm & Technique, and Introduction to Computer Programming.
   * I was a tutor for Introduction to Computer Science for four semesters.
-  * I prepared lab materials, graded tests and assignments, and attended to students’ questions.
+  * I prepared lab materials, graded tests and assignments, and answered students’ questions.
   
 * Lecturer: Kings University Odeomu, Nigeria (Mar. 2018 - Aug. 2019)
   * I taught the following courses: Fundamentals of Data Structure & Algorithms, Computer Networks, and Object-Oriented Programming.
   * I developed mid-semester quizzes, homework, and exams.
-  * I coordinated grading and labwork.
+  * I coordinated grading and lab work.
   * I supervised student projects.
 
 * System Analyst: National Institute for Educational Planning and Administration Ondo, Nigeria (May. 2015 - Apr. 2016)
@@ -40,7 +40,7 @@ Work experience
   * I was a member of the networking team that set up a computer-based test facility for almost 1000 students.
  
 * Intern: Bureau of Computer Services and Information Technology, Office of the Governor. Osogbo, Nigeria: (Aug. 2012 - Feb. 2013)
-  * I monitored the Network Operating Center (NOC) of the State. I also traced connection loss and facilitated its restoration.
+  * I monitored the State Network Operating Center (NOC). I also traced connection loss and facilitated its restoration.
   * I was responsible for constant network connection in all office ministries.
   * I tutored college students on basic computer skills.
 
@@ -74,7 +74,7 @@ Teaching
 Service and leadership
 ======
 * Member, Research Education Committee, Dept. of Computer Science, CityU Hong Kong: Sept 2021 - Aug 2023
-* Seceretary, Association of Nigerian Scholars in Hong Kong (ANSHK) Hong Kong: Oct 2021 - Sept 2023
+* Secretary, Association of Nigerian Scholars in Hong Kong (ANSHK) Hong Kong: Oct 2021 - Sept 2023
 * Member, Electoral Committee, ANSHK Hong Kong: 2020
 * Member, Electoral Committee, International Student Society (ISS-NIGERIA), UTM Malaysia: 2017
 * Member, Annual General Meeting Committee, ISS-NIGERIA, UTM Malaysia: 2017
